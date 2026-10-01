@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&height=220&color=gradient&customColorList=6,11,20&text=M.%20Adhitya%20Yusuf&fontSize=44&fontColor=ffffff&desc=Informatics%20Student%20%7C%20Java%20%26%20Dart&descSize=18&descAlignY=68)
+# M. Adhitya Yusuf
+
+**Informatics Student &nbsp;|&nbsp; Java & Dart &nbsp;|&nbsp; Polinema**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1600&color=F97316&center=true&vCenter=true&width=520&lines=Halo%2C+aku+Yusuf+%F0%9F%91%8B;Mahasiswa+Polinema+%E2%80%93+Malang;Lagi+belajar+ngoding+tiap+hari;Suka+ngulik%2C+suka+kolaborasi)](https://github.com/Adhityayusuf)
 
@@ -83,4 +85,8 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer)
+<div align="center">
+
+⭐ Terima kasih sudah mampir! Kalau ada project menarik, ayo kolaborasi. ⭐
+
+</div>
