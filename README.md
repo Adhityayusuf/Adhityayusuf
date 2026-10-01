@@ -15,19 +15,35 @@
 Mahasiswa Informatika di **Politeknik Negeri Malang**. Fokus membangun aplikasi web dan mobile, sambil terus memperdalam fondasi pemrograman dan kolaborasi lewat Git.
 
 - Lokasi: Malang, Indonesia
-- Sedang dipelajari: Laravel, Dart, dan machine learning dengan Python
+- Sedang dipelajari: Laravel, Dart, PostgreSQL, dan machine learning dengan Python
 - Terbuka untuk kolaborasi project dan open source
 
 ---
 
 ### Tech Stack
 
-| Kategori | Teknologi |
-|:--|:--|
-| **Bahasa** | <img src="https://skillicons.dev/icons?i=java,py,php,dart,js&theme=dark" height="40" /> |
-| **Web** | <img src="https://skillicons.dev/icons?i=html,css,laravel&theme=dark" height="40" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" /> |
+<div align="center">
+
+<img src="https://img.shields.io/badge/BAHASA-F97316?style=for-the-badge" />
+
+<img src="https://skillicons.dev/icons?i=java,py,php,dart,js&theme=dark" height="44" />
+
+<img src="https://img.shields.io/badge/WEB-EC4899?style=for-the-badge" />
+
+<img src="https://skillicons.dev/icons?i=html,css,laravel&theme=dark" height="44" />
+
+<img src="https://img.shields.io/badge/DATABASE-6366F1?style=for-the-badge" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="44" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" height="32" />
+
+<sub>PostgreSQL (lokal & cloud lewat Neon) &nbsp;|&nbsp; MySQL</sub>
+
+<img src="https://img.shields.io/badge/TOOLS-14B8A6?style=for-the-badge" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="44" />
+
+</div>
 
 ---
 
