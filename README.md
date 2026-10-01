@@ -53,11 +53,9 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhityayusuf&show_icons=true&theme=gruvbox&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityayusuf&layout=compact&theme=gruvbox&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityayusuf&layout=compact&theme=gruvbox&hide_border=true&hide=jupyter%20notebook" />
 
 <img src="https://streak-stats.demolab.com?user=Adhityayusuf&theme=gruvbox&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adhityayusuf&theme=gruvbox&no-frame=true&row=1&margin-w=10" />
 
 </div>
 
