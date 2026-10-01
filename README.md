@@ -24,14 +24,6 @@ Fokus membangun aplikasi <b>web</b> dan <b>mobile</b>, sambil terus memperdalam<
 fondasi pemrograman dan kolaborasi lewat <b>Git</b>.
 </p>
 
-<div align="center">
-
-| 📍 Lokasi | 🌱 Sedang Dipelajari | 🤝 Terbuka Untuk |
-|:---:|:---:|:---:|
-| Malang, Indonesia | Laravel · Dart · PostgreSQL · Machine Learning (Python) | Kolaborasi project & open source |
-
-</div>
-
 <br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
