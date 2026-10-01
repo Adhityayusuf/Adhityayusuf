@@ -1,7 +1,6 @@
-<!-- ================= HEADER (gelombang animasi) ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:F97316,50:EC4899,100:6366F1&text=M.%20Adhitya%20Yusuf&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Informatics%20Student%20%7C%20Web%20%26%20Mobile%20Developer&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="./assets/header.svg" width="100%" alt="M. Adhitya Yusuf" />
 
 <a href="https://github.com/Adhityayusuf">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=F97316&center=true&vCenter=true&width=600&height=45&lines=Halo%2C+aku+Yusuf+%F0%9F%91%8B;Mahasiswa+Informatika+di+Polinema;Membangun+aplikasi+web+%26+mobile;Belajar%2C+bangun%2C+ulangi+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,7 +16,6 @@
 
 <br/>
 
-<!-- ================= ABOUT ================= -->
 <h2 align="center">✨ Tentang Saya</h2>
 
 <p align="center">
@@ -36,7 +34,6 @@ fondasi pemrograman dan kolaborasi lewat <b>Git</b>.
 
 <br/>
 
-<!-- ================= TECH STACK ================= -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
@@ -67,13 +64,10 @@ fondasi pemrograman dan kolaborasi lewat <b>Git</b>.
   </tr>
 </table>
 
-<sub>PostgreSQL (lokal &amp; cloud lewat Neon) &nbsp;|&nbsp; MySQL</sub>
-
 </div>
 
 <br/>
 
-<!-- ================= ACTIVITY ================= -->
 <h2 align="center">📊 Aktivitas GitHub</h2>
 
 <div align="center">
@@ -85,16 +79,10 @@ fondasi pemrograman dan kolaborasi lewat <b>Git</b>.
 
 <img src="https://streak-stats.demolab.com?user=Adhityayusuf&theme=gruvbox&hide_border=true" alt="streak" />
 
-<br/><br/>
-
-<!-- Grafik kontribusi bergerak (garis animasi naik-turun seperti ombak) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhityayusuf&bg_color=0d1117&color=F97316&line=EC4899&point=ffffff&area=true&area_color=6366F1&hide_border=true&radius=12" width="95%" alt="activity graph" />
-
 </div>
 
 <br/>
 
-<!-- ================= CONNECT ================= -->
 <h2 align="center">🌐 Mari Terhubung</h2>
 
 <div align="center">
@@ -106,5 +94,6 @@ fondasi pemrograman dan kolaborasi lewat <b>Git</b>.
 
 </div>
 
-<!-- ================= FOOTER (gelombang animasi) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6366F1,50:EC4899,100:F97316&section=footer&reversal=true&text=Belajar%2C%20bangun%2C%20ulangi&fontColor=ffffff&fontSize=22&fontAlignY=65&animation=twinkling" width="100%" alt="footer" />
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Belajar, bangun, ulangi" />
