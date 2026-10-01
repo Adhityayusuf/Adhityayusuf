@@ -22,28 +22,23 @@ Mahasiswa Informatika di **Politeknik Negeri Malang**. Fokus membangun aplikasi 
 
 ### Tech Stack
 
-<div align="center">
+<p align="center"><img src="https://img.shields.io/badge/BAHASA-F97316?style=for-the-badge" /></p>
 
-<img src="https://img.shields.io/badge/BAHASA-F97316?style=for-the-badge" />
+<p align="center"><img src="https://skillicons.dev/icons?i=java,py,php,dart,js&theme=dark" height="44" /></p>
 
-<img src="https://skillicons.dev/icons?i=java,py,php,dart,js&theme=dark" height="44" />
+<p align="center"><img src="https://img.shields.io/badge/WEB-EC4899?style=for-the-badge" /></p>
 
-<img src="https://img.shields.io/badge/WEB-EC4899?style=for-the-badge" />
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,laravel&theme=dark" height="44" /></p>
 
-<img src="https://skillicons.dev/icons?i=html,css,laravel&theme=dark" height="44" />
+<p align="center"><img src="https://img.shields.io/badge/DATABASE-6366F1?style=for-the-badge" /></p>
 
-<img src="https://img.shields.io/badge/DATABASE-6366F1?style=for-the-badge" />
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="44" /> &nbsp;<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" height="32" /></p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="44" />
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" height="32" />
+<p align="center"><sub>PostgreSQL (lokal &amp; cloud lewat Neon) &nbsp;|&nbsp; MySQL</sub></p>
 
-<sub>PostgreSQL (lokal & cloud lewat Neon) &nbsp;|&nbsp; MySQL</sub>
+<p align="center"><img src="https://img.shields.io/badge/TOOLS-14B8A6?style=for-the-badge" /></p>
 
-<img src="https://img.shields.io/badge/TOOLS-14B8A6?style=for-the-badge" />
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="44" />
-
-</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="44" /></p>
 
 ---
 
