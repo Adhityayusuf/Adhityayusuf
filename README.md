@@ -87,4 +87,4 @@ Currently strengthening my programming fundamentals, database skills, and collab
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Just a developer, exploring ideas and building new things" />
+<img src="./assets/footer-en.svg" width="100%" alt="Just a developer, exploring ideas and building new things" />
