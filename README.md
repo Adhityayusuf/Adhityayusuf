@@ -63,12 +63,12 @@ Saat ini memperdalam fondasi pemrograman, basis data, dan kolaborasi melalui <b>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhityayusuf&show_icons=true&bg_color=111827&title_color=7DD3FC&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" alt="Statistik GitHub Adhitya Yusuf" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityayusuf&layout=compact&bg_color=111827&title_color=7DD3FC&text_color=E2E8F0&hide_border=true&hide=jupyter%20notebook" alt="Bahasa pemrograman yang digunakan" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhityayusuf&show_icons=true&bg_color=1F2937&title_color=7DD3FC&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" alt="Statistik GitHub Adhitya Yusuf" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityayusuf&layout=compact&bg_color=1F2937&title_color=7DD3FC&text_color=E2E8F0&hide_border=true&hide=jupyter%20notebook" alt="Bahasa pemrograman yang digunakan" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Adhityayusuf&background=111827&ring=38BDF8&fire=F97316&currStreakLabel=7DD3FC&sideLabels=E2E8F0&dates=94A3B8&hide_border=true" alt="Aktivitas GitHub beruntun" />
+<img src="https://streak-stats.demolab.com?user=Adhityayusuf&background=1F2937&ring=38BDF8&fire=F97316&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=7DD3FC&sideLabels=E2E8F0&dates=94A3B8&stroke=475569&hide_border=true" alt="Aktivitas GitHub beruntun" />
 
 </div>
 
