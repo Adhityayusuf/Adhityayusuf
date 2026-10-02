@@ -63,12 +63,12 @@ Saat ini memperdalam fondasi pemrograman, basis data, dan kolaborasi melalui <b>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhityayusuf&show_icons=true&bg_color=FFFFFF&title_color=1E3A8A&text_color=334155&icon_color=2563EB&hide_border=true" alt="Statistik GitHub Adhitya Yusuf" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityayusuf&layout=compact&bg_color=FFFFFF&title_color=1E3A8A&text_color=334155&hide_border=true&hide=jupyter%20notebook" alt="Bahasa pemrograman yang digunakan" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhityayusuf&show_icons=true&bg_color=111827&title_color=7DD3FC&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" alt="Statistik GitHub Adhitya Yusuf" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityayusuf&layout=compact&bg_color=111827&title_color=7DD3FC&text_color=E2E8F0&hide_border=true&hide=jupyter%20notebook" alt="Bahasa pemrograman yang digunakan" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Adhityayusuf&background=FFFFFF&ring=2563EB&fire=38BDF8&currStreakLabel=1E3A8A&sideLabels=334155&dates=64748B&hide_border=true" alt="Aktivitas GitHub beruntun" />
+<img src="https://streak-stats.demolab.com?user=Adhityayusuf&background=111827&ring=38BDF8&fire=F97316&currStreakLabel=7DD3FC&sideLabels=E2E8F0&dates=94A3B8&hide_border=true" alt="Aktivitas GitHub beruntun" />
 
 </div>
 
@@ -79,6 +79,9 @@ Saat ini memperdalam fondasi pemrograman, basis data, dan kolaborasi melalui <b>
 <div align="center">
 
 <a href="https://github.com/Adhityayusuf"><img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white" height="42" alt="Kunjungi GitHub Adhitya Yusuf" /></a>
+<a href="https://linkedin.com/in/GANTI_USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" /></a>
+<a href="mailto:GANTI_EMAIL_KAMU"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" /></a>
+<a href="https://instagram.com/GANTI_USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" /></a>
 
 </div>
 
