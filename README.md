@@ -80,8 +80,8 @@ Saat ini memperdalam fondasi pemrograman, basis data, dan kolaborasi melalui <b>
 
 <a href="https://github.com/Adhityayusuf"><img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white" height="42" alt="Kunjungi GitHub Adhitya Yusuf" /></a>
 <a href="https://linkedin.com/in/GANTI_USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" /></a>
-<a href="mailto:GANTI_EMAIL_KAMU"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" /></a>
-<a href="https://instagram.com/GANTI_USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" /></a>
+<a href="mailto:adhitya.yusuf1206@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" /></a>
+<a href="https://instagram.com/madhtyusuf._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" /></a>
 
 </div>
 
