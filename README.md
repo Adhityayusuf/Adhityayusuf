@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Adhityayusuf&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/badge/Malang-Indonesia-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Malang, Indonesia" />
-<img src="https://img.shields.io/badge/Open%20to-Internship-0F766E?style=for-the-badge" alt="Open to internship" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-0F766E?style=for-the-badge" alt="Open to collaboration" />
 
 </div>
 
@@ -19,10 +19,8 @@
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  Informatics student at <b>Politeknik Negeri Malang</b> (batch 2024) building mobile and web apps.<br/>
-  Most days I write <b>Flutter</b> and <b>Laravel</b> code — and <b>Python</b> when a project needs data or ML.<br/>
-  Recent work: <b>Capsee</b> (chili-field monitoring app) and <b>KeJepret</b> (race photo marketplace with face search).<br/>
-  Currently <b>open to internship</b>.
+  Informatics student at <b>Politeknik Negeri Malang</b>, interested in building web and mobile applications.<br/>
+  Currently strengthening my programming fundamentals, database skills, and collaborative workflow with <b>Git</b>.
 </p>
 
 <br/>
@@ -69,22 +67,6 @@
 </table>
 
 </div>
-
-<br/>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/Adhityayusuf/capsee"><b>Capsee</b></a> · mobile app for chili farmers (Flutter + FastAPI)<br/>
-  <a href="https://github.com/Adhityayusuf/PBL-S4-KeJepret"><b>KeJepret</b></a> · race photo marketplace with face search (Laravel)<br/>
-  <a href="https://github.com/Adhityayusuf/PraktikumPWL"><b>PraktikumPWL</b></a> · admin panel (Laravel 12 + Filament 4)<br/>
-  <a href="https://github.com/Adhityayusuf/244107020045-mobile-course"><b>Mobile Course</b></a> · 8 weeks of Flutter, shipped with tests<br/>
-  <a href="https://github.com/Adhityayusuf/mesin-learning"><b>Mesin Learning</b></a> · ML notebooks (scikit-learn, TensorFlow)
-</p>
-
-<p align="center">
-  📂 More projects → <a href="https://github.com/Adhityayusuf?tab=repositories"><b>github.com/Adhityayusuf?tab=repositories</b></a>
-</p>
 
 <br/>
 
