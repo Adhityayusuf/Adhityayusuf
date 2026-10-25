@@ -3,14 +3,14 @@
 <img src="./assets/header.svg" width="100%" alt="M.Adhitya Yusuf Al-Ayyubi" />
 
 <a href="https://github.com/Adhityayusuf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Hello%2C+I%27m+Yusuf;Informatics+student+at+Polinema;Exploring+web+and+mobile+development;Learn%2C+build%2C+repeat" alt="Animated profile introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Hello%2C+I%27m+Yusuf;Informatics+student+at+Polinema;Flutter+%C2%B7+Laravel+%C2%B7+Python;Open+to+internship" alt="Animated profile introduction" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Adhityayusuf&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/badge/Malang-Indonesia-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Malang, Indonesia" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-0F766E?style=for-the-badge" alt="Open to collaboration" />
+<img src="https://img.shields.io/badge/Open%20to-Internship-0F766E?style=for-the-badge" alt="Open to internship" />
 
 </div>
 
@@ -19,8 +19,10 @@
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
-Informatics student at <b>Politeknik Negeri Malang</b>, interested in building web and mobile applications.<br/>
-Currently strengthening my programming fundamentals, database skills, and collaborative workflow with <b>Git</b>.
+  Informatics student at <b>Politeknik Negeri Malang</b> (batch 2024) building mobile and web apps.<br/>
+  Most days I write <b>Flutter</b> and <b>Laravel</b> code — and <b>Python</b> when a project needs data or ML.<br/>
+  Recent work: <b>Capsee</b> (chili-field monitoring app) and <b>KeJepret</b> (race photo marketplace with face search).<br/>
+  Currently <b>open to internship</b>.
 </p>
 
 <br/>
@@ -36,11 +38,22 @@ Currently strengthening my programming fundamentals, database skills, and collab
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/WEB-0369A1?style=for-the-badge" alt="Web" /></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=html,css,laravel&theme=dark" height="52" alt="Web development" /></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=html,css,laravel&theme=dark" height="52" alt="Web development" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="34" alt="FastAPI" />
+    </td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/MOBILE-0284C7?style=for-the-badge" alt="Mobile" /></td>
     <td align="left"><img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" height="52" alt="Mobile development" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/DATA_%26_ML-6D28D9?style=for-the-badge" alt="Data and machine learning" /></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="34" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="34" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/OpenCV-05C4E9?style=for-the-badge&logo=opencv&logoColor=white" height="34" alt="OpenCV" />
+    </td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/DATABASE-0F766E?style=for-the-badge" alt="Database" /></td>
@@ -51,11 +64,27 @@ Currently strengthening my programming fundamentals, database skills, and collab
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/TOOLS-1E3A8A?style=for-the-badge" alt="Tools" /></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="52" alt="Development tools" /></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" height="52" alt="Development tools" /></td>
   </tr>
 </table>
 
 </div>
+
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Adhityayusuf/capsee"><b>Capsee</b></a> · mobile app for chili farmers (Flutter + FastAPI)<br/>
+  <a href="https://github.com/Adhityayusuf/PBL-S4-KeJepret"><b>KeJepret</b></a> · race photo marketplace with face search (Laravel)<br/>
+  <a href="https://github.com/Adhityayusuf/PraktikumPWL"><b>PraktikumPWL</b></a> · admin panel (Laravel 12 + Filament 4)<br/>
+  <a href="https://github.com/Adhityayusuf/244107020045-mobile-course"><b>Mobile Course</b></a> · 8 weeks of Flutter, shipped with tests<br/>
+  <a href="https://github.com/Adhityayusuf/mesin-learning"><b>Mesin Learning</b></a> · ML notebooks (scikit-learn, TensorFlow)
+</p>
+
+<p align="center">
+  🌐 Full portfolio → <a href="https://adhityayusuf.github.io/portofolio/"><b>adhityayusuf.github.io/portofolio</b></a>
+</p>
 
 <br/>
 
@@ -78,6 +107,7 @@ Currently strengthening my programming fundamentals, database skills, and collab
 
 <div align="center">
 
+<a href="https://adhityayusuf.github.io/portofolio/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" height="42" alt="Personal portfolio website" /></a>
 <a href="https://github.com/Adhityayusuf"><img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white" height="42" alt="Visit Adhitya Yusuf on GitHub" /></a>
 <a href="https://www.linkedin.com/in/m-adhitya-yusuf-al-ayyubi-b55404446/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" /></a>
 <a href="mailto:adhitya.yusuf1206@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" /></a>
