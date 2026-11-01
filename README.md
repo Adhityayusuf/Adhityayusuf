@@ -3,7 +3,7 @@
 <img src="./assets/header.svg" width="100%" alt="M.Adhitya Yusuf Al-Ayyubi" />
 
 <a href="https://github.com/Adhityayusuf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Hello%2C+I%27m+Yusuf;Informatics+student+at+Polinema;Flutter+%C2%B7+Laravel+%C2%B7+Python;Open+to+internship" alt="Animated profile introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Hello%2C+I%27m+Yusuf;Informatics+student+at+Polinema" alt="Animated profile introduction" />
 </a>
 
 <br/>
